@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Frank Energie is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://frankenergie.nl/
+Frank Energie is a Dutch energy provider that helps customers reduce their electricity costs by offering smart consumption advice and cheaper rates. The service focuses on using cheaper energy moments, providing tools to monitor usage, and promoting sustainable energy choices. It aims to make energy cheaper and consumption smarter for households and businesses across the Netherlands.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://frankenergie.nl/)
+- [Documentation](https://dev.frankenergie.nl/)
+- [Privacy policy](https://www.frankenergie.nl/nl/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/frank-energie/](https://apis.io/providers/frank-energie/).
